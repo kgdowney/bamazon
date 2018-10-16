@@ -12,8 +12,8 @@ The customer interface allows the user to view the current inventory of store it
 
 To run the customer interface please follow the steps below:
 
-git clone git@github.com:kgdowney/bamazon.git
-cd bamazon
-npm install
-node bamazonCustomer.js
+        git clone git@github.com:kgdowney/bamazon.git
+        cd bamazon
+        npm install
+        node bamazonCustomer.js
 
